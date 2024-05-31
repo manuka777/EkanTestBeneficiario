@@ -1,4 +1,4 @@
-package com.beneficiario.documento;
+package com.beneficiario.documento.controller;
 
 import java.util.List;
 import java.util.Optional;
